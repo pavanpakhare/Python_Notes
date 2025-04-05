@@ -23,6 +23,17 @@ This tutorial will introduce you to the fundamentals of Python programming. Pyth
 18. [Working with Dates and Times](#working-with-dates-and-times)
 19. [Regular Expressions](#regular-expressions)
 20. [Virtual Environments](#virtual-environments)
+1. [Decorators](#decorators)  
+2. [Generators & Yield](#generators--yield)  
+3. [Context Managers (with Statement)](#context-managers-with-statement)  
+4. [Metaclasses](#metaclasses)  
+5. [Concurrency (Threading & Multiprocessing)](#concurrency-threading--multiprocessing)  
+6. [Asynchronous Programming (Async/Await)](#asynchronous-programming-asyncawait)  
+7. [Memory Management & Garbage Collection](#memory-management--garbage-collection)  
+8. [Descriptors & Properties](#descriptors--properties)  
+9. [Type Hints & Static Typing (MyPy)](#type-hints--static-typing-mypy)  
+10. [Advanced Data Structures (NamedTuple, Dataclass, Enum)](#advanced-data-structures-namedtuple-dataclass-enum)  
+
 
 ## Installing Python
 
