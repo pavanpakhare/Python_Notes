@@ -713,7 +713,7 @@ temp.celsius = -300  # Raises ValueError
 
 ---
 
-## **9. Type Hints & Static Typing (MyPy)**  
+## **Type Hints & Static Typing (MyPy)**  
 ```python
 from typing import List, Dict, Optional
 
@@ -728,7 +728,7 @@ result: Optional[int] = None  # Can be int or None
 
 ---
 
-## **10. Advanced Data Structures**  
+## **Advanced Data Structures**  
 ### **NamedTuple** (Immutable, Lightweight)  
 ```python
 from typing import NamedTuple
