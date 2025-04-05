@@ -13,7 +13,7 @@ This tutorial will introduce you to the fundamentals of Python programming. Pyth
 8. [Functions](#functions)
 9. [Lists](#lists)
 10. [Dictionaries](#dictionaries)
-11 [List Comprehensions](#list-comprehensions)
+11. [List Comprehensions](#list-comprehensions)
 12. [Lambda Functions](#lambda-functions)
 13. [Map, Filter, and Reduce](#map-filter-and-reduce)
 14. [Error Handling](#error-handling)
