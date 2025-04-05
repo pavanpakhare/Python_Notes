@@ -462,7 +462,7 @@ pip install -r requirements.txt
 
 # Advance
 
-## **1. Decorators**  
+## **Decorators**  
 Decorators allow modifying the behavior of functions or classes.  
 
 ### **Basic Decorator**
@@ -512,7 +512,7 @@ Hello, Alice!
 
 ---
 
-## **2. Generators & Yield**  
+## **Generators & Yield**  
 Generators allow lazy evaluation and memory-efficient iteration.  
 
 ### **Basic Generator**
@@ -558,7 +558,7 @@ for num in generator2():
 
 ---
 
-## **3. Context Managers (`with` Statement)**  
+## **Context Managers (`with` Statement)**  
 Context managers handle resource management (e.g., files, locks).  
 
 ### **Custom Context Manager (Class-based)**
@@ -597,7 +597,7 @@ with managed_file('hello.txt') as f:
 
 ---
 
-## **4. Metaclasses**  
+## **Metaclasses**  
 Metaclasses control class creation (advanced OOP).  
 
 ### **Basic Metaclass**
@@ -615,7 +615,7 @@ print(MyClass.version)  # Output: 1.0
 
 ---
 
-## **5. Concurrency (Threading & Multiprocessing)**  
+## **Concurrency (Threading & Multiprocessing)**  
 ### **Threading (I/O-bound tasks)**
 ```python
 import threading
@@ -653,7 +653,7 @@ if __name__ == '__main__':
 
 ---
 
-## **6. Asynchronous Programming (Async/Await)**  
+## **Asynchronous Programming (Async/Await)**  
 ```python
 import asyncio
 
@@ -674,7 +674,7 @@ asyncio.run(main())
 
 ---
 
-## **7. Memory Management & Garbage Collection**  
+## **Memory Management & Garbage Collection**  
 ```python
 import gc
 
@@ -689,7 +689,7 @@ print(sys.getrefcount(a))  # Number of references
 
 ---
 
-## **8. Descriptors & Properties**  
+## **Descriptors & Properties**  
 ```python
 class Temperature:
     def __init__(self, celsius):
